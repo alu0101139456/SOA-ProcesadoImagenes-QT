@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 5f1147c1741c6f081b8b5970ebc3058d17b73e92 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589295579 +0100	branch: Created from HEAD
+5f1147c1741c6f081b8b5970ebc3058d17b73e92 f0c0bbd80ee0aea9f301d165994a381b65c825fe Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589316287 +0100	commit: Create struct eImagen to get name, path and newname easy
+f0c0bbd80ee0aea9f301d165994a381b65c825fe 789f2de10c2be63245b99add88b58d2ed030d412 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589316366 +0100	commit: Change to use QList<QVector<eImagen>> in function divide
+789f2de10c2be63245b99add88b58d2ed030d412 d53ed2cf7ea5795616dc4e81f8cf69178d3bede7 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589316453 +0100	commit: Correction of private atributes in functions
+d53ed2cf7ea5795616dc4e81f8cf69178d3bede7 996ba549df5db36d540a2a03828f37797c28bfbb Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589316523 +0100	commit: Create class to make tasks
+996ba549df5db36d540a2a03828f37797c28bfbb 8c0ad46fbad18b8165c31a57112b45ce328364a2 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589316569 +0100	commit: Update

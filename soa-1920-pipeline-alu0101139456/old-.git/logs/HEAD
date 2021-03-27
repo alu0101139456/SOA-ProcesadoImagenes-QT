@@ -1,0 +1,54 @@
+0000000000000000000000000000000000000000 0210854456330245b3ff71b693ba87586fb5075f Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589049425 +0100	clone: from git@github.com:ull-esit-sistemas-operativos/soa-1920-pipeline-alu0101139456.git
+0210854456330245b3ff71b693ba87586fb5075f c7546fe374a44960398c341aec180ebd83b85153 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589132193 +0100	commit: PRO files
+c7546fe374a44960398c341aec180ebd83b85153 499914a47206699991bc70e3f903914bffe12fed Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589132311 +0100	commit: Update main and clean code
+499914a47206699991bc70e3f903914bffe12fed 499914a47206699991bc70e3f903914bffe12fed Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589132329 +0100	checkout: moving from master to develop
+499914a47206699991bc70e3f903914bffe12fed a9b4ce3ec36a6f64d424ba94acecccd919a0aa68 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589135278 +0100	commit: Create function divide
+a9b4ce3ec36a6f64d424ba94acecccd919a0aa68 b6f3263d409faad0e3db9302303592ed4ff92e9c Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589138728 +0100	commit: Create array process_t with number of lists of QList and create threads
+b6f3263d409faad0e3db9302303592ed4ff92e9c 499914a47206699991bc70e3f903914bffe12fed Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589138762 +0100	checkout: moving from develop to master
+499914a47206699991bc70e3f903914bffe12fed b6f3263d409faad0e3db9302303592ed4ff92e9c Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589138779 +0100	checkout: moving from master to develop
+b6f3263d409faad0e3db9302303592ed4ff92e9c 676dd939acef1800f0a8065a427e4e292fb853f5 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589212133 +0100	commit: Create class togray to implement convers to gray
+676dd939acef1800f0a8065a427e4e292fb853f5 61130d9c946388c59e5b03bc6e5bf74896db812b Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589212178 +0100	commit: Now we use the new class togray.cpp
+61130d9c946388c59e5b03bc6e5bf74896db812b 1d3b00ec577ee417bcc791173c5f84b88b4bfbce Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589212219 +0100	commit: Main using the new class gray
+1d3b00ec577ee417bcc791173c5f84b88b4bfbce fd96c8fdaf27f630e5f06c6509e8f7889c647063 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589212254 +0100	commit: Adding new class togray
+fd96c8fdaf27f630e5f06c6509e8f7889c647063 ba01a0f4232637b9c3d8fe9672a3019505e39af6 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589214564 +0100	commit: Update pro file
+ba01a0f4232637b9c3d8fe9672a3019505e39af6 13ae89d7dc65002ade213203eefb4c5465e32cff Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589214622 +0100	commit: Adding select options in command line with QCommandLineParse
+13ae89d7dc65002ade213203eefb4c5465e32cff 640539cff5391f7d6fd3fd77b9b49fea1e4ce732 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589214650 +0100	commit: del
+640539cff5391f7d6fd3fd77b9b49fea1e4ce732 7fc21948416fb26321e0a2bcaf2efc1da7ac0248 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589220819 +0100	commit: Update
+7fc21948416fb26321e0a2bcaf2efc1da7ac0248 cb8598d74b68868aff5062bd001831df53651a0a Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589220907 +0100	revert: Revert "Update"
+cb8598d74b68868aff5062bd001831df53651a0a a78cd2cf6cc6315ce9d3517ad95cbfecf25b4c67 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589221173 +0100	commit: Created cola_t class with lockfree structure used in synchronization practice
+a78cd2cf6cc6315ce9d3517ad95cbfecf25b4c67 3e702079cf632618dcf203431f906769e8243906 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589221780 +0100	commit: Comment the "hardWORK" to debug
+3e702079cf632618dcf203431f906769e8243906 5f1147c1741c6f081b8b5970ebc3058d17b73e92 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589221857 +0100	commit: General Update of files .pro
+5f1147c1741c6f081b8b5970ebc3058d17b73e92 5f1147c1741c6f081b8b5970ebc3058d17b73e92 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589295579 +0100	checkout: moving from develop to posibilityStruc
+5f1147c1741c6f081b8b5970ebc3058d17b73e92 f0c0bbd80ee0aea9f301d165994a381b65c825fe Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589316287 +0100	commit: Create struct eImagen to get name, path and newname easy
+f0c0bbd80ee0aea9f301d165994a381b65c825fe 789f2de10c2be63245b99add88b58d2ed030d412 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589316366 +0100	commit: Change to use QList<QVector<eImagen>> in function divide
+789f2de10c2be63245b99add88b58d2ed030d412 d53ed2cf7ea5795616dc4e81f8cf69178d3bede7 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589316453 +0100	commit: Correction of private atributes in functions
+d53ed2cf7ea5795616dc4e81f8cf69178d3bede7 996ba549df5db36d540a2a03828f37797c28bfbb Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589316523 +0100	commit: Create class to make tasks
+996ba549df5db36d540a2a03828f37797c28bfbb 8c0ad46fbad18b8165c31a57112b45ce328364a2 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589316569 +0100	commit: Update
+8c0ad46fbad18b8165c31a57112b45ce328364a2 5f1147c1741c6f081b8b5970ebc3058d17b73e92 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589316616 +0100	checkout: moving from posibilityStruc to develop
+5f1147c1741c6f081b8b5970ebc3058d17b73e92 8c0ad46fbad18b8165c31a57112b45ce328364a2 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589316620 +0100	merge posibilityStruc: Fast-forward
+8c0ad46fbad18b8165c31a57112b45ce328364a2 91314bb1ead404ac504656ccbad42d27ba3551da Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589364329 +0100	commit: Accommodating structure in class
+91314bb1ead404ac504656ccbad42d27ba3551da 607aeb06b9dd7aa2a87e19cbf867891ae2de07dd Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589364428 +0100	commit: Testing createGrayTask
+607aeb06b9dd7aa2a87e19cbf867891ae2de07dd bae8ab9097d4a2f3c3b34e0c7766f628bf79bd01 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589364580 +0100	commit: Making class from QRunnable
+bae8ab9097d4a2f3c3b34e0c7766f628bf79bd01 23e251b6e66e1b507e765fe53c33decbcf4327e7 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589390095 +0100	commit: In the pop the order changed, the waiting condition is put before
+23e251b6e66e1b507e765fe53c33decbcf4327e7 93a425dea2d4d4d91efaa891c23b3de51a29da85 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589390262 +0100	commit: Modified apply method to pass the image by reference and avoid copies
+93a425dea2d4d4d91efaa891c23b3de51a29da85 6b29616870790c2a7a8abeb6d2d9dd08a2f41009 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589390315 +0100	commit: Modified apply method to pass the image by reference and avoid copies
+6b29616870790c2a7a8abeb6d2d9dd08a2f41009 befb8cc7f12629e5afaa17a746368562dbd95929 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589390542 +0100	commit: Create new file to incorporate struct eImage
+befb8cc7f12629e5afaa17a746368562dbd95929 863e47e685f83777efe6ada96491ccd5d84dbbd0 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589390620 +0100	commit: Simplifying code whith less copies and move struct eImage to file tools
+863e47e685f83777efe6ada96491ccd5d84dbbd0 cf9e1e3aa5f7bb690f28fc932236e9e81dbbaa22 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589390734 +0100	commit: Run calls ApplyGaussianFilterToImage giving reference
+cf9e1e3aa5f7bb690f28fc932236e9e81dbbaa22 7c0cdefd42bd809a33d2aa1e41bfeb971c6ace88 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589390823 +0100	commit: Builder receive eimagen and queue ptr
+7c0cdefd42bd809a33d2aa1e41bfeb971c6ace88 e763d2aed7aa976e1a4fc0975d0e83a2236def56 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589390935 +0100	commit: Simplifying code calling new AppliGrayFilterToImage pass reference
+e763d2aed7aa976e1a4fc0975d0e83a2236def56 49dd6fc5a9042770d67d29aa85bdeeed0091f52b Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589391273 +0100	commit: SE
+49dd6fc5a9042770d67d29aa85bdeeed0091f52b c66d711ee931abccef859b2470ba7702cfee907d Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589391315 +0100	revert: Apply change to incorporate new functions
+c66d711ee931abccef859b2470ba7702cfee907d fd95e3d96d810ea1f9a5615df71008c313b638e9 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589392354 +0100	commit: update
+fd95e3d96d810ea1f9a5615df71008c313b638e9 75293f057666b749917b3e3e2140de38a39aa32a Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589397167 +0100	commit: Adding comments
+75293f057666b749917b3e3e2140de38a39aa32a 499914a47206699991bc70e3f903914bffe12fed Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589397183 +0100	checkout: moving from develop to master
+499914a47206699991bc70e3f903914bffe12fed 75293f057666b749917b3e3e2140de38a39aa32a Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589397187 +0100	merge develop: Fast-forward
+75293f057666b749917b3e3e2140de38a39aa32a 973cf6b681cbeb48b249d2a93fc7a78caa08fd29 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589398332 +0100	commit: Update Readme
+973cf6b681cbeb48b249d2a93fc7a78caa08fd29 fb1c0e0ab886db186ba00e6bd82c6b05bafae895 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589398509 +0100	commit: UodateReadme
+fb1c0e0ab886db186ba00e6bd82c6b05bafae895 481783bfa5486f2a26d073550b3fd7f706d530ef Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589398693 +0100	commit: Add graphic
+481783bfa5486f2a26d073550b3fd7f706d530ef 46e9c54847ff2606700e8e892689c75573732db5 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589398862 +0100	commit: Add graphics
+46e9c54847ff2606700e8e892689c75573732db5 48d045f06316720eb9ea75e3727c9910f97e0431 Angel Julian Bolaño Campos <alu0101139456@ull.edu.es> 1589399081 +0100	commit: Add Grahic
+48d045f06316720eb9ea75e3727c9910f97e0431 e26ff53eba88cb2678359879b155ec7d1b9a7a13 Ángel Julián Bolaño Campos <alu0101139456@ull.edu.es> 1589793232 +0100	commit: In function toGrayTask we forget change type object to send
+e26ff53eba88cb2678359879b155ec7d1b9a7a13 4c32bfe13a23176047785b759637cc249e706b35 Ángel Julián Bolaño Campos <alu0101139456@ull.edu.es> 1589793317 +0100	commit: In function toGaussianBTask we forget change type object to send
+4c32bfe13a23176047785b759637cc249e706b35 b66a369d70650e7fa4563e84da108872bc55a1eb Ángel Julián Bolaño Campos <alu0101139456@ull.edu.es> 1589794159 +0100	commit: add file to save images
+b66a369d70650e7fa4563e84da108872bc55a1eb 650639f1af1f68341bedb897db3d802c6d3a2256 Ángel Julián Bolaño Campos <alu0101139456@ull.edu.es> 1589794326 +0100	commit: Update readme

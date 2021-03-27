@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = git@github.com:ull-esit-sistemas-operativos/soa-1920-pipeline-alu0101139456.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[branch "develop"]
+	remote = origin
+	merge = refs/heads/develop
+[branch "posibilityStruc"]
+	remote = origin
+	merge = refs/heads/posibilityStruc
